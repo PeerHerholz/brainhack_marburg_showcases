@@ -29,3 +29,4 @@ dependencies:
   - plotly
   - pip:
     - vtk
+    - pingouin
