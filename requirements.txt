@@ -1,0 +1,16 @@
+ipython
+jupyter_contrib_nbextensions
+matplotlib
+numpy
+pandas
+scikit-image
+scikit-learn
+scipy
+seaborn
+statsmodels
+traits
+bokeh
+holoviews
+plotly
+vtk
+pingouin
