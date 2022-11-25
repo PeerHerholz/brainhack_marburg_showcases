@@ -2,7 +2,7 @@
 
 A little repository to showcase some things during the Brainhack Global - Marburg Hub.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeerHerholz/brainhack_marburg_showcases/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeerHerholz/brainhack_marburg_showcases/bhg_2022)
 [![GitHub size](https://img.shields.io/github/repo-size/PeerHerholz/brainhack_marburg_showcases)](https://github.com/repronim/brainhack_marburg_showcases-2022/archive/master.zip)
 [![GitHub issues](https://img.shields.io/github/issues/PeerHerholz/brainhack_marburg_showcases?style=plastic)](https://github.com/PeerHerholz/brainhack_marburg_showcases/issues)
 [![GitHub PR](https://img.shields.io/github/issues-pr/PeerHerholz/brainhack_marburg_showcases)](https://github.com/PeerHerholz/brainhack_marburg_showcases/pulls)
@@ -18,7 +18,7 @@ are you doing/planning to do a lot of computational work, specifically programmi
 
 In this repository we created small showcases that aim to introduce [Jupyter Notebooks](https://jupyter.org/) and [Python](https://www.python.org/) as holistically as possible and set it up in a way that you can run/explore it via the awesome [binder service](https://mybinder.org/), i.e. a free service that turns your repository into a [Docker image](https://docs.docker.com/) which is then hosted on a [JupyterHub](https://jupyter.org/hub) that allows to work with your [Jupyter Notebooks](https://jupyter.org/) interactively. To get to this mysterious interactive instance, you just have to click this button: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeerHerholz/brainhack_marburg_showcases/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PeerHerholz/brainhack_marburg_showcases/bhg_2022)
 
 To make everything a bit more relatable to [Brainhacks](https://brainhack.org/global2022/), ie `neuroscience`, the examples will showcase respective applications.
 The files in more detail:
