@@ -1,2 +1,2 @@
-# brainhack2020_marburg_showcases
-A little repository to showcase some things during the Brainhack 2020 in Marburg.
+# Brainhack Global showcases - Marburg Hub
+A little repository to showcase some things during the Brainhack Global - Marburg Hub.
