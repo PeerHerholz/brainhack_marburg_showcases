@@ -27,9 +27,9 @@ The files in more detail:
 - [jupyter-notebooks.ipynb]() - a `jupyter notebook` aiming to introduce `jupyter notebooks` (it's `jupyter notebook-ception`)
 - [python_intro.ipynb]() - a `jupyter notebook` aiming to introduce core aspects of the [python programming language](https://www.python.org/)
 
-You can also follow the materials in a non-interactive manner via [nbviewer]():
+You can also follow the materials in a non-interactive manner via [nbviewer](https://nbviewer.org/):  
 
-[Introduction to Jupyter](https://nbviewer.org/github/PeerHerholz/brainhack_marburg_showcases/blob/main/notebooks/intro_jupyter.ipynb)
+[Introduction to Jupyter](https://nbviewer.org/github/PeerHerholz/brainhack_marburg_showcases/blob/main/notebooks/intro_jupyter.ipynb)    
 [Introduction to Python](https://nbviewer.org/github/PeerHerholz/brainhack_marburg_showcases/blob/main/notebooks/intro_python.ipynb)
 
 ### I have a question/How can I get help?
